@@ -1,14 +1,10 @@
 # Documentación del proceso
 
-Instructions: Template for exit criteria for data science projects. 
-This is concise document that includes an overview of the entire project, 
-including details of each stage and learning. If a section isn't applicable 
-(e.g. project didn't include a ML model), simply mark that section as "Not applicable". 
-Suggested length between 5-20 pages. Code should mostly be within code repository (not in this document).
+#### Maestria en Ciencia de Datos y Analítica.
 
-Maestria en Ciencia de Datos y Analítica
-Universidad EAFIT
-Proyecto Integrador
+##### Universidad EAFIT.
+
+###### Proyecto Integrador.
 2020-1
 
 Equipo: Catalina Piedrahita Jaramillo (cpiedrahij@eafit.edu.co), David Betancur Londoño (dajaramilz@eafit.edu.co), Diego Andrés Jaramillo Zapata (dajaramilz@eafit.edu.co), Diego Andrés Valderrama Laverde (davalderrl@eafit.edu.co) y Susana Londoño Muñoz (slondo50@eafit.edu.co).
@@ -104,9 +100,17 @@ hogares que habitan, para contrastarlos a nivel de variables exógenas como el
 precio promedio de la vivienda.
 
 ##	Datos:
-<Schema of original datasets, how data was processed, final input data schema for model\>
+
+<Schema of original datasets, how data was processed, final input data schema 
+for model\>
 
 ### Adquisición de datos
+Fuentes de información:
+
+-	Microdatos. Censo 2018. Valle de Aburrá.
+-	Microdatos. Encuesta Calidad de Vida 2019. Valle de Aburrá.
+-	Microdatos. Encuesta Calidad de Vida 2019. Medellín.
+
 
 ### Pre-procesamiento de datos
 
@@ -147,15 +151,20 @@ architectures that were considered, if relevant\>
 <Learnings around the products and services utilized in the solution \>
 
 ###	What's unique about this project, specific challenges
-<Specific issues or setup, unique things, specific challenges that had to be addressed during the engagement and how that was accomplished\>
+<Specific issues or setup, unique things, specific challenges 
+that had to be addressed during the engagement and how that was accomplished\>
 
 ##	Links
-<Links to published case studies, etc.; Link to git repository where all code sits\>
+<Links to published case studies, etc.; 
+Link to git repository where all code sits\>
 
 
 ##	Next Steps
  
-<Next steps. These should include milestones for follow-ups and who 'owns' this action. E.g. Post- Proof of Concept check-in on status on 12/1/2016 by X, monthly check-in meeting by Y, etc.\>
+<Next steps. These should include milestones for follow-ups and who 
+'owns' this action. E.g. Post- Proof of Concept check-in on status 
+on 12/1/2016 by X, monthly check-in meeting by Y, etc.\>
 
 ## Appendix
-<Other material that seems relevant – try to keep non-appendix to <20 pages but more details can be included in appendix if needed\>
+<Other material that seems relevant – try to keep non-appendix to 
+<20 pages but more details can be included in appendix if needed\>
