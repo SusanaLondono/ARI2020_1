@@ -1,30 +1,28 @@
-# Data and Feature Definitions
+# Transformaciónes y caracteristicas de los datos.
 
-This document provides a central hub for the raw data sources, the processed/transformed data, and feature sets. More details of each dataset is provided in the data summary report. 
+Este documento provee la información de la fuente de los datos crudos, curados y para producción. Para cada conjunto de datos
+(crudos, curados y producción) se realiza una tabla, donde cada registro muestra la información para un dataset perteneciente
+al conjunto. 
 
-For each data, an individual report describing the data schema, the meaning of each data field, and other information that is helpful for understanding the data is provided. If the dataset is the output of processing/transforming/feature engineering existing data set(s), the names of the input data sets, and the links to scripts that are used to conduct the operation are also provided. 
-
-When applicable, the Interactive Data Exploration, Analysis, and Reporting (IDEAR) utility developed by Microsoft is applied to explore and visualize the data, and generate the data report. Instructions of how to use IDEAR can be found [here](). 
-
-For each dataset, the links to the sample datasets in the _**Data**_ directory are also provided. 
-
-_**For ease of modifying this report, placeholder links are included in this page, for example a link to dataset 1, but they are just placeholders pointing to a non-existent page. These should be modified to point to the actual location.**_
+Cada dataset se asocia a los scripts de transformación o movimiento que se le aplicaron. 
 
 
-## Raw Data Sources
+## Datos crudos
 
 
-| Dataset Name | Original Location   | Destination Location  | Data Movement Tools / Scripts | Link to Report |
+| Nombre dataset (raw)| Localización original   | Destino  | Scripts | link a reporte |
 | ---:| ---: | ---: | ---: | -----: |
-| Dataset 1 | Brief description of its orignal location | Brief description of its destination location | [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
-| Dataset 2 | Brief description of its orignal location | Brief description of its destination location | [script2.R](link/to/R/script/file/in/Code) | [Dataset 2 Report](link/to/report2)|
+| Dataset 1 | link fuente | link s3 raw | [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
+| Dataset 2 | link fuente | link s3 raw | [script2.R](link/to/R/script/file/in/Code) | [Dataset 2 Report](link/to/report2)|
 
 
 * Dataset1 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset1 Report.>
 * Dataset2 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset2 Report.> 
 
-## Processed Data
-| Processed Dataset Name | Input Dataset(s)   | Data Processing Tools/Scripts | Link to Report |
+## Datos procesados
+
+
+| Nombre dataset (proces) | dataset(s) asociado(s)  | Scripts | link a reporte |
 | ---:| ---: | ---: | ---: | 
 | Processed Dataset 1 | [Dataset1](link/to/dataset1/report), [Dataset2](link/to/dataset2/report) | [Python_Script1.py](link/to/python/script/file/in/Code) | [Processed Dataset 1 Report](link/to/report1)|
 | Processed Dataset 2 | [Dataset2](link/to/dataset2/report) |[script2.R](link/to/R/script/file/in/Code) | [Processed Dataset 2 Report](link/to/report2)|
@@ -32,9 +30,9 @@ _**For ease of modifying this report, placeholder links are included in this pag
 * Processed Data1 summary. <Provide brief summary of the processed data, such as why you want to process data in this way. More detailed information about the processed data should be in the Processed Data1 Report.>
 * Processed Data2 summary. <Provide brief summary of the processed data, such as why you want to process data in this way. More detailed information about the processed data should be in the Processed Data2 Report.> 
 
-## Feature Sets
+## Datos para producción
 
-| Feature Set Name | Input Dataset(s)   | Feature Engineering Tools/Scripts | Link to Report |
+| Nombre dataset (prod) | dataset(s) asociado(s) | Scripts | link a reporte |
 | ---:| ---: | ---: | ---: | 
 | Feature Set 1 | [Dataset1](link/to/dataset1/report), [Processed Dataset2](link/to/dataset2/report) | [R_Script2.R](link/to/R/script/file/in/Code) | [Feature Set1 Report](link/to/report1)|
 | Feature Set 2 | [Processed Dataset2](link/to/dataset2/report) |[SQL_Script2.sql](link/to/sql/script/file/in/Code) | [Feature Set2 Report](link/to/report2)|

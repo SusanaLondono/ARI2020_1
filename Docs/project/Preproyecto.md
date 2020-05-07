@@ -1,16 +1,16 @@
-# Project Charter
+# Lineamientos del proyecto
 
-## Business background
+## Contexto
 
 * Who is the client, what business domain the client is in.
 * What business problems are we trying to address?
 
-## Scope
+## Alcance
 * What data science solutions are we trying to build?
 * What will we do?
 * How is it going to be consumed by the customer?
 
-## Personnel
+## Equipo
 * Who are on this project:
 	* Microsoft:
 		* Project lead
@@ -21,7 +21,7 @@
 		* Data administrator
 		* Business contact
 	
-## Metrics
+## Metricas
 * What are the qualitative objectives? (e.g. reduce user churn)
 * What is a quantifiable metric  (e.g. reduce the fraction of users with 4-week inactivity)
 * Quantify what improvement in the values of the metrics are useful for the customer scenario (e.g. reduce the  fraction of users with 4-week inactivity by 20%) 
@@ -31,7 +31,7 @@
 ## Plan
 * Phases (milestones), timeline, short description of what we'll do in each phase.
 
-## Architecture
+## Arquitectura
 * Data
   * What data do we expect? Raw data in the customer data sources (e.g. on-prem files, SQL, on-prem Hadoop etc.)
 * Data movement from on-prem to Azure using ADF or other data movement tools (Azcopy, EventHub etc.) to move either
@@ -49,6 +49,6 @@
   * Make a 1 slide diagram showing the end to end data flow and decision architecture
     * If there is a substantial change in the customer's business workflow, make a before/after diagram showing the data flow.
 
-## Communication
+## Canales de comunicación
 * How will we keep in touch? Weekly meetings?
 * Who are the contact persons on both sides?
