@@ -1,4 +1,4 @@
-# Transformaciónes y caracteristicas de los datos.
+# Transformaciones y caracteristicas de los datos.
 
 Este documento provee la información de la fuente de los datos crudos, curados y para producción. Para cada conjunto de datos
 (crudos, curados y producción) se realiza una tabla, donde cada registro muestra la información para un dataset perteneciente
