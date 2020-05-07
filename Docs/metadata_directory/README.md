@@ -1,4 +1,4 @@
-# Directorio de datos
+# Directorio de metadatos
 _Descripción detallada de los datasets_
 
 Descripción campo a campo de los datos, por lo general los da la fuente de los datos. 
