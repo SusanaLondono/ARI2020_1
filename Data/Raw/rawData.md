@@ -1,5 +1,9 @@
 ## List of Raw Datasets
 
+Subamos los datasets a s3
+1. Ingrese a su AWS Educate
+2. Ingrese a este bucket: https://s3.console.aws.amazon.com/s3/buckets/pi-cds-raw/?region=us-east-1
+
 
 | Raw Dataset Name | Link to the Full Dataset   | Full Dataset Size (MB)  | Link to Report |
 | ---:| ---: | ---: | ---: |
