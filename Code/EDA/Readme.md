@@ -1,3 +1,4 @@
-# This folder hosts code for data acquisition and understanding (exploratory analysis)
+# *Scripts* de EDA (Exploratory Data Analysis) 
 
-You can add detailed description in this markdown related to your specific data science project.
+1. B0-data_profiling.ipynb
+2. B1-EDA.ipynb
