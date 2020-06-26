@@ -1,4 +1,4 @@
-# Documentación del proceso
+# Modelo de clasificación socioeconómica de los hogares del Valle de Aburrá
 
 #### Maestria en Ciencia de Datos y Analítica.
 
@@ -22,8 +22,6 @@ Finalmente, con los modelos supervisados de Árboles de Decisión, Regresión Lo
 
 **Palabras claves:** clase socioeconómica; encuesta de calidad de vida de Medellín; distancia
 Gower; FAMD; modelos no supervisados; modelos supervisados.
-
-##	Modelo de clasificación socioeconómica de los hogares del Valle de Aburrá
 
 ##	Definición del problema y contexto
 En términos generales, identificar grupos poblacionales con características similares puede llegar a representar, tanto para entes públicos como privados, un medio o instrumento para alcanzar una amplia variedad de objetivos económicos y sociales, dentro de los cuales sobresalen:
