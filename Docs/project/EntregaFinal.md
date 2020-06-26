@@ -189,13 +189,13 @@ La distancia de Gower y la reducción de dimensionalidad FAMD son herramientas d
 
 ## Referencias bibliográficas
 
-● Alcaldía de Medellín (2020). Base de datos Encuesta Calidad de Vida 2018. Disponible en: https://bit.ly/2ZfcCrA .
-● Alcaldía de Bogotá (2016). La Estratificación en Bogotá. Impacto social y alternativas para asignar subsidios. Disponible en: https://bit.ly/381192Q .
-● Betancur, D. (2012). Modelo de capacidad de pago para categorizar usuarios de servicios públicos de agua y saneamiento básico. Disponible en: https://bit.ly/2ZeINaV .
-● Chelaru-Centea, Nancy (2019). Calculate principal components of mixed-type data. Factor analysis of mixed categorical and continuous data in R and Python. Disponible en: https://bit.ly/2Yx9Sqz .
-● Departamento Nacional de Planeación (2008). Evaluación de la estratificación socioeconómica como instrumento de clasificación de los usuarios y herramienta de asignación de subsidios y contribuciones a los servicios públicos domiciliarios. Disponible en: https://bit.ly/3g0mA6Y .
-● Kesh, Sreemanto (2020) How to calculate Gower’s Distance using Python. Disponible en: https://bit.ly/3fYUkBH .
-● Unrue, Matthew (2019). Analysis of Customer Churn in the Telco Customer Churn Dataset. Disponible en: https://bit.ly/3eAWNSJ .
+* Alcaldía de Medellín (2020). Base de datos Encuesta Calidad de Vida 2018. Disponible en: https://bit.ly/2ZfcCrA .
+* Alcaldía de Bogotá (2016). La Estratificación en Bogotá. Impacto social y alternativas para asignar subsidios. Disponible en: https://bit.ly/381192Q .
+* Betancur, D. (2012). Modelo de capacidad de pago para categorizar usuarios de servicios públicos de agua y saneamiento básico. Disponible en: https://bit.ly/2ZeINaV .
+* Chelaru-Centea, Nancy (2019). Calculate principal components of mixed-type data. Factor analysis of mixed categorical and continuous data in R and Python. Disponible en: https://bit.ly/2Yx9Sqz .
+* Departamento Nacional de Planeación (2008). Evaluación de la estratificación socioeconómica como instrumento de clasificación de los usuarios y herramienta de asignación de subsidios y contribuciones a los servicios públicos domiciliarios. Disponible en: https://bit.ly/3g0mA6Y .
+* Kesh, Sreemanto (2020) How to calculate Gower’s Distance using Python. Disponible en: https://bit.ly/3fYUkBH .
+* Unrue, Matthew (2019). Analysis of Customer Churn in the Telco Customer Churn Dataset. Disponible en: https://bit.ly/3eAWNSJ .
 
 ## Appendix
 
