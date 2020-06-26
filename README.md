@@ -1,4 +1,5 @@
- # Proyecto Integrador: modelo de clasificación socioeconómica de los hogares del Valle de Aburrá
+ # Proyecto Integrador: 
+ # Clasificación socioeconómica de los hogares de Medellín
  
 #### Maestria en Ciencia de Datos y Analítica.
 
