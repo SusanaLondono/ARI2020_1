@@ -1,3 +1,6 @@
-# This folder contains code for modeling and related activities (such as feature engineering, model evaluation etc.)
+# *scripts* para modelación y actividades relacionadas
 
-You can add detailed description in this markdown related to your specific data science project.
+1. C1-red_dim_FAMD.ipynb
+2. C2-K-medoides-RL.ipynb
+3. C3-K-Means.ipynb
+4. C4-Modelos.ipynb
